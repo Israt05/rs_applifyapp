@@ -6,7 +6,7 @@ function App() {
     <div className="App">
       <header className="App-header">
         <img src={logo} className="App-logo" alt="logo" />
-          Learn statics Hosting with AWS
+          Learn statics by Israt with AWS
       </header>
     </div>
   );
